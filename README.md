@@ -8,7 +8,7 @@ At my current company, I was instrumental in implementing a Sharp-and-Clear-Line
 
 _My employment history is as follows:_
 
-**1806** - present: Newell Musgrave LLC
+**1806 - present**: Newell Musgrave LLC
 
 **1781** - **1806**: Derwent Cumberland Co
 
