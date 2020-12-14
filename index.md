@@ -1,7 +1,5 @@
 # Getting started with `GitHub` Desktop
 
-Changes from Local 
-
 Learn how to set up, authenticate, and configure GitHub Desktop to allow you to contribute to projects directly from your machine.
 
 ## Introduction
