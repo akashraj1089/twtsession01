@@ -1,4 +1,4 @@
-# Getting started with `GitHub` Desktop
+# Getting started with GitHub Desktop
 
 Learn how to set up, authenticate, and configure GitHub Desktop to allow you to contribute to projects directly from your machine.
 
